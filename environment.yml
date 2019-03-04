@@ -1,19 +1,18 @@
 name: BinderTutorial_Workflow
 channels:
-  - defaults
-  - conda-forge
-  - cimcb
+- defaults
+- conda-forge
+- cimcb
 dependencies:
-  - bokeh
-  - beakerx
-  - jupyter
-  - numpy
-  - openpyxl
-  - pandas
-  - python
-  - scikit-learn
-  - statsmodels
-  - xlrd
-  - tqdm
-  - pip:
-    - cimcb_lite
+- bokeh
+- beakerx
+- jupyter
+- numpy
+- openpyxl
+- pandas
+- python
+- scikit-learn
+- statsmodels
+- xlrd
+- tqdm
+- cimcb_lite
