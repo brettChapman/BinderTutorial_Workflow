@@ -1,5 +1,4 @@
 # Binder Tutorial Workflow
----
 
 ## Open in binders:
 
@@ -9,7 +8,6 @@
 #### Option 2: Directly launch the BinderTutorial_Workflow Jupyter Notebook
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KevinMMendez/BinderTutorial_Workflow/master?filepath=BinderTutorial_Workflow.ipynb)
 
----
 
 ## Create a Local Copy:
 
