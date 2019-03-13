@@ -11,3 +11,4 @@ dependencies:
 - python
 - openpyxl
 - cimcb_lite
+- tornado<6
