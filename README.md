@@ -5,9 +5,10 @@
 #### Option 1. Launch the Jupyter Dashboard:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KevinMMendez/BinderTutorial_Workflow/master)
 <br />
-#### Option 2. Direct link to the BinderTutorial_Workflow Jupyter Notebook:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KevinMMendez/BinderTutorial_Workflow/master?filepath=BinderTutorial_Workflow.ipynb)
-
+#### Option 2a. Direct link to the Tutorial 1 Jupyter Notebook:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KevinMMendez/BinderTutorial_Workflow/master?filepath=Tutorial1.ipynb)
+#### Option 2b. Direct link to the Tutorial 2 Jupyter Notebook:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KevinMMendez/BinderTutorial_Workflow/master?filepath=Tutorial2.ipynb)
 <br />
 
 
@@ -35,7 +36,7 @@
 9. Return to the 'Home' tab
 10. Change 'Application on... base(root)' to 'Application on... BinderTutorial_Workflow' (at the top)
 11. Press the 'Launch' button under the 'Jupyter Notebook' box
-12. Using the Notebook Dashboard, locate the downloaded folder in step 2/3 and open (double-click) on the 'BinderTutorial_Workflow.ipynb'.
+12. Using the Notebook Dashboard, locate the downloaded folder in step 2/3 and open (double-click) on the 'Tutorial1.ipynb'.
 <br /><br />
 
 #### Step 2. Create a local copy using Terminal / Command Prompt **(Alternative)**
