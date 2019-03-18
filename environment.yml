@@ -1,5 +1,6 @@
 name: BinderTutorial
 channels:
+- defaults
 - conda-forge
 - cimcb
 dependencies:
