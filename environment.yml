@@ -1,14 +1,11 @@
-name: BinderTutorial_Workflow
+name: BinderTutorial
 channels:
 - defaults
 - conda-forge
 - cimcb
 dependencies:
 - beakerx
-- jupyter
 - numpy
 - pandas
-- python
 - openpyxl
 - cimcb_lite
-- tornado<6
