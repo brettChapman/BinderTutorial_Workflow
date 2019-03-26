@@ -10,3 +10,4 @@ dependencies:
 - pandas=0.24.2
 - openpyxl=2.6.1
 - cimcb_lite=0.1.7
+- tornado<6
